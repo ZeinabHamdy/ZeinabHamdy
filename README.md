@@ -2,12 +2,21 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;"></a>
 </p>
+<br>
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=ZeinabHamdy&label=Profile%20views&color=0e75b6&style=plastic" alt="ZeinabHamdy" /> 
+</p>
+
+<br>
+
 
 - 🔭 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 🌱 I’m currently learning **Computer Science**
 
 - 👨‍💻 I am a competitive programmer at **Codeforces, Leetcode, Codechef.**
+
+
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
