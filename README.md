@@ -23,12 +23,10 @@
 # 📊 GitHub Stats: 
 <br><br>
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=ZeinabHamdy&label=Profile%20views&color=0e75b6&style=plastic" alt="ZeinabHamdy"/> 
-</p>
-<br>
- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ZeinabHamdy&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/><br/>
+<img src="https://komarev.com/ghpvc/?username=ZeinabHamdy&label=Profile%20views&color=0e75b6&style=plastic" alt="ZeinabHamdy"/> <br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=ZeinabHamdy&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/><br/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHamdy&theme=onedark&hide_border=false" /><br/>
-<p/>
+</p>
+
 
 <br>
