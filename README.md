@@ -6,15 +6,14 @@
 
 
 * I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en) 
-* I’m currently learning **Computer Science** 
+* I’m currently learning Computer Science 
 * I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong>  
 * Looking forward to being a great <strong>Software Engineer</strong>
 
 
 ##  Connect with me :
 <p align="center">
-&nbsp&nbsp&nbsp<a href="mailto:zeinabhamdy1010@gmail.com?"  target="blank"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?" alt="Zeinab_Hamdy" height="60" width="40"/></a>
-&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/zeinabhamdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeinabhamdyy/" height="60" width="40" /></a>
+&nbsp&nbsp&nbsp<a href="mailto:zeinabhamdy1010@gmail.com?"  target="blank"><img align="center" src="https://img.shields.io/badge/gmail-%23DD0031.svg?" alt="Zeinab_Hamdy" height="60" width="40"/></a>&nbsp&nbsp&nbsp<a href="https://www.linkedin.com/in/zeinabhamdyy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/zeinabhamdyy/" height="60" width="40" /></a>
 &nbsp&nbsp&nbsp<a href="https://codeforces.com/profile/Zeinab_Hamdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Zeinab_Hamdy" height="60" width="40" /></a>	
 &nbsp&nbsp&nbsp<a href="https://leetcode.com/Zeinabhamdy10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Zeinabhamdy10" height="60" width="40" /></a>
 </p>
@@ -33,4 +32,3 @@
 <p/>
 
 <br>
-
