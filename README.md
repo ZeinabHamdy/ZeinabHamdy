@@ -1,6 +1,9 @@
 <h1 align="center">Hi , I'm Zeinab Hamdy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h2> <img align="center" src="https://github.com/ZeinabHamdy/ZeinabHamdy/blob/main/Photo.gif" width = "200"/> </h2>
+<p align="center" >
+<img align="center" src="https://github.com/ZeinabHamdy/ZeinabHamdy/blob/main/giphy.gif" width = "300" height="300"/> 
+</p>
+<br>
 
 
 <p align="center">
