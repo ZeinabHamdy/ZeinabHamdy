@@ -12,8 +12,7 @@
 
 
 * I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en) 
-* I’m currently learning Computer Science 
-* I enjoy <strong>Problem Solving</strong> and <strong>Programming Competitions</strong>  
+* I’m currently learning Computer Science  
 * Looking forward to being a great <strong>Software Engineer</strong>
 
 
