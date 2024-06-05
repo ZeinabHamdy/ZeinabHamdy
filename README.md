@@ -27,10 +27,30 @@
 
 # 📊 GitHub Stats: 
 <br><br>
-<p align="center"> 
+<!--<p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=ZeinabHamdy&label=Profile%20views&color=0e75b6&style=plastic" alt="ZeinabHamdy"/> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=ZeinabHamdy&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/><br/><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHamdy&theme=onedark&hide_border=false" /><br/>
+</p>-->
+
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabHamdy&layout=compact&theme=radical&card_width=200px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeinabHamdy&show_icons=true&theme=radical&card_width=250px" alt="Anurag's GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHamdy&theme=radical&card_width=520px" alt="GitHub Streak" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ZeinabHamdy&theme=radical&row=1" alt="Trophy" />
+  </a>
 </p>
 
 
