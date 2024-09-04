@@ -12,7 +12,7 @@
 * I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en) 
 * I’m currently learning Computer Science  
 * Looking forward to being a great <strong>Software Engineer</strong>
-
+* For more information about my background and qualifications, please refer to [My Resume](https://drive.google.com/file/d/1hXhBbD4Y8Mygw2eW30Zexc9EBHUTFuRE/view?usp=sharing)
 
 ##  Connect with me :
 <p align="center">
