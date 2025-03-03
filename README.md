@@ -5,15 +5,15 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;Backend+Developer;"></a>
 </p>
 
-* I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 ---
 
 ## 🚀 About Me  
 
-🎓 Passionate software engineer with strong problem-solving skills and experience in **web development** and **competitive programming**.  
-🏆 **ECPC Finalist** | **ACPC for Girls Medalist**  
-⚡ Always eager to **collaborate on exciting projects** and **participate in programming competitions!**  
+* 🎓 Final-year Computer Science Student from Egypt.
+* 🎓 Passionate software engineer with strong problem-solving skills and experience in **web development** and **competitive programming**.  
+* 🏆 **ECPC Finalist** | **ACPC for Girls Medalist**.
+* ⚡ Always eager to **collaborate on exciting projects** and **participate in programming competitions!**.
 
 ---
 
