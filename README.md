@@ -88,6 +88,8 @@ I'm currently **seeking opportunities** in **backend development** or **software
   <img src="https://i.pinimg.com/originals/9a/05/01/9a0501d9d5ac11a864f540199b2d41d9.gif" alt="programming girl" width="200">
 </div>
 
+
+
 ## GitHub Metrics
 
 <p align="center">
@@ -119,10 +121,14 @@ I'm currently **seeking opportunities** in **backend development** or **software
   </table>
 </div>
 
-
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation" width="350">
+</div>
 
+
+---
 
 
 
