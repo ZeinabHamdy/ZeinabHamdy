@@ -88,32 +88,42 @@ I'm currently **seeking opportunities** in **backend development** or **software
   <img src="https://i.pinimg.com/originals/9a/05/01/9a0501d9d5ac11a864f540199b2d41d9.gif" alt="programming girl" width="200">
 </div>
 
-## GitHub Stats
+## GitHub Metrics
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ZeinabHamdy&label=Profile%20views&color=F8579C&style=flat-square" alt="Profile Views"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZeinabHamdy&layout=compact&theme=radical" alt="Top Languages" width="355"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZeinabHamdy&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZeinabHamdy&theme=radical" alt="GitHub Streak" width="450"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZeinabHamdy&theme=radical&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding animation" width="350">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZeinabHamdy&show_icons=true&theme=radical" alt="GitHub Stats" width="450"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZeinabHamdy&theme=radical" alt="GitHub Contribution Graph" width="680"/>
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZeinabHamdy&theme=radical" alt="Top Languages by Repo" width="330"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZeinabHamdy&theme=radical" alt="Top Languages by Commit" width="330"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZeinabHamdy&theme=radical" alt="Stats" width="330"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ZeinabHamdy&theme=radical&utcOffset=3" alt="Commits (UTC +3:00)" width="330"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
 ---
+
+
+
+
+
 
