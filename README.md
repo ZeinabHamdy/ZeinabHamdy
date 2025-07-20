@@ -21,7 +21,7 @@
 I'm currently **seeking opportunities** in **backend development** or **software engineering** roles.
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1lbj9lSne8ihbLLvUpPzpjM0QfWlZj5pF/view?usp=drive_link">
+  <a href="https://drive.google.com/file/d/1yTg_MPMR0LSZsG8Deb3Xu7EFNeHrcyEW/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-Download%20My%20CV-F8579C?style=for-the-badge&logo=google-drive" alt="Resume"/>
   </a>
 </div>
