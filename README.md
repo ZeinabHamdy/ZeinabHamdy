@@ -9,16 +9,16 @@
 </p>
 
 ## About Me
-- Final-year Computer Science Student from Egypt
-- **ECPC Finalist** 
-- **ACPC for Girls Medalist** 🥈
-- Passionate software engineer with strong problem-solving skills
-- Experience in **web development** and **competitive programming**
-- Always eager to collaborate on exciting projects
-- Constantly exploring new technologies and coding challenges
+- Computer Science graduate from Egypt
+- ECPC Finalist
+- ACPC for Girls Medalist 🥈
+- Passionate software engineer with strong problem-solving and analytical skills
+- Experience in backend development, web technologies, and competitive programming
+- Enthusiastic about collaborating on innovative projects and continuous learning
+- Always exploring new technologies and coding challenges
 
 ## Open to Work
-I'm currently **seeking opportunities** in **backend development** or **software engineering** roles.
+I am actively seeking opportunities in backend development or software engineering roles where I can contribute my skills and grow professionally.
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1yTg_MPMR0LSZsG8Deb3Xu7EFNeHrcyEW/view?usp=sharing">
