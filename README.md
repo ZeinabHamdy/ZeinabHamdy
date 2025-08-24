@@ -21,7 +21,7 @@
 I am actively seeking opportunities in backend development or software engineering roles where I can contribute my skills and grow professionally.
 
 <div align="center">
-  <a href="https://drive.google.com/file/d/1yTg_MPMR0LSZsG8Deb3Xu7EFNeHrcyEW/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1anZ3vc7WAUkVp7TCItlrv75rbjq0c7dp/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-Download%20My%20CV-F8579C?style=for-the-badge&logo=google-drive" alt="Resume"/>
   </a>
 </div>
