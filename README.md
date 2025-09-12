@@ -23,11 +23,7 @@
 ## 🚀 Open to Work
 Actively seeking **Backend Developer / Software Engineer** opportunities where I can grow and add value.
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/10HOCiC37M38ZCNI8TtAPe7iX8IOb1mBx/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-Download%20My%20CV-F8579C?style=for-the-badge&logo=google-drive" alt="Resume"/>
-  </a>
-</div>
+
 
 ---
 
