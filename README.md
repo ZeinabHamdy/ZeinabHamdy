@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+Spring+Boot+enthusiast;ACPC+Girls+Bronze+Medalist+%F0%9F%A5%89;Backend+Developer+%7C+Problem+Solver;Clean+Architecture+%7C+SOLID+Principles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=Django+%7C+DRF+%7C+Spring+Boot+enthusiast;ACPC+Girls+Bronze+Medalist+%F0%9F%A5%89;Backend+Developer+%7C+Problem+Solver;Database+Optimization+%7C+REST+APIs)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@ class ZeinabHamdy:
         self.role        = "Software Engineer"
         self.university  = "Suez Canal University — CS Graduate (Excellent with Honors)"
         self.gpa         = "3.51 / 4.0"
-        self.focus       = ["Backend Development", "REST APIs", "Clean Architecture"]
+        self.focus       = ["Backend Development", "REST APIs", "Database Optimization"]
         self.languages   = ["Python", "Java", "C++", "JavaScript"]
         self.frameworks  = ["Django", "DRF", "Spring Boot"]
         self.databases   = ["PostgreSQL", "Firebase"]
@@ -74,7 +74,7 @@ class ZeinabHamdy:
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger/OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-**🧠 CS Fundamentals & Design**
+**🧠 CS Fundamentals**
 
 ![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-0078D7?style=for-the-badge&logoColor=white)
@@ -83,57 +83,7 @@ class ZeinabHamdy:
 
 ---
 
-## 🚀 Featured Projects
 
-### 🛰️ SATARS — Smart Accident Tracking & Rescue System
-> *Graduation Project — 1st Place Innovation 🏅*
-
-A hardware-software IoT system designed for real-time accident detection and emergency response.
-
-- Integrated multiple sensors achieving reliable accident detection with a fully functional prototype
-- Designed and fabricated **2 custom PCBs**, simplifying assembly and improving system stability
-- Implemented **real-time data transmission to Firebase Cloud** for live monitoring and mobile app integration
-
-`Firebase` `IoT` `PCB Design` `ESP8266` `Flame Sensor` `DHT22`
-
----
-
-### 🛒 E-Commerce Backend API
-> *Production-ready REST API*
-
-A fully-featured e-commerce backend covering the complete shopping flow end-to-end.
-
-- Built **24+ endpoints** covering authentication, products, carts, orders, and categories
-- Secured with **role-based JWT authentication**, input validation, and **atomic order workflows** to prevent data inconsistency
-- Implemented search, filtering, and pagination — with auto-generated **Swagger/OpenAPI docs**
-
-`Django` `DRF` `PostgreSQL` `JWT` `API documentations` `Postman`
-
----
-
-### 📝 Blogs Website Backend
-> *Full-featured blogging platform*
-
-A Django-based backend supporting a complete content management and user experience flow.
-
-- Full **CRUD** for posts with pagination and **post sharing via email**
-- Automated **user profile creation on registration** using Django signals — zero manual setup
-- Secured with authentication, real-time profile editing, and photo uploads
-
-`Django` `PostgreSQL` `Django Signals`
-
----
-
-### 🏪 Supermarket Management System
-> *Multi-role management system*
-
-- Multi-user system with separate **employee and customer roles**, managing 50+ products and 20+ accounts
-- Employee panel: full product CRUD and inventory tracking
-- Customer panel: browse, purchase, and generate receipts with **5% loyalty discount**
-
-`Python` `C++` `OOP` `File Processing`
-
----
 
 ## 📊 GitHub Stats
 
